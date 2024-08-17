@@ -1,3 +1,6 @@
 [submodule "n-gram-model"]
 	path = n-gram-model
 	url = https://github.com/jithu-chandran/n-gram-model.git
+[submodule "n-gram-model-new"]
+	path = n-gram-model-new
+	url = git@github.com:jithu-chandran/n-gram-model.git
