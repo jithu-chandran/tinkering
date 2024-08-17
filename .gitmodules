@@ -1,0 +1,3 @@
+[submodule "n-gram-model"]
+	path = n-gram-model
+	url = https://github.com/jithu-chandran/n-gram-model.git
